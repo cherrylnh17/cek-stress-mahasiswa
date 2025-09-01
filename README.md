@@ -1,10 +1,7 @@
 # Cek Tingkat Stres Mahasiswa
 
-<<<<<<< HEAD
-![Next.js](https.img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-=======
+
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
->>>>>>> ba5e922 (Add README and img folder)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
@@ -25,24 +22,13 @@ Kesehatan mental merupakan isu penting di kalangan mahasiswa. Tingginya tuntutan
 
 <table>
   <tr>
-    <td align="center"><strong>Halaman Utama</strong></td>
     <td align="center"><strong>Halaman Kuesioner</strong></td>
-  </tr>
-  <tr>
-    <td><img src="https://github.com/cherrylnh17/cek-stress-mahasiswa/blob/main/img/Screenshot%20(132).png?raw=true" alt="Halaman Utama" width="400"/></td>
-    <td><img src="https://github.com/cherrylnh17/cek-stress-mahasiswa/blob/main/img/Screenshot%20(133).png?raw=true" alt="Halaman Kuesioner" width="400"/></td>
-  </tr>
-<<<<<<< HEAD
-   <tr>
     <td align="center"><strong>Halaman Hasil</strong></td>
-    <td align="center"><strong>Halaman Riwayat</strong></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/cherrylnh17/cek-stress-mahasiswa/blob/main/img/Screenshot%20(134).png?raw=true" alt="Halaman Hasil" width="400"/></td>
-    <td><img src="https://github.com/cherrylnh17/cek-stress-mahasiswa/blob/main/img/Screenshot%20(135).png?raw=true" alt="Halaman Riwayat" width="400"/></td>
+    <td><img src="https://github.com/cherrylnh17/cek-stress-mahasiswa/blob/d8aeed016b972fddced72664ae9e35556f2d3589/img/soal.png" alt="Halaman Utama" width="400"/></td>
+    <td><img src="https://github.com/cherrylnh17/cek-stress-mahasiswa/blob/d8aeed016b972fddced72664ae9e35556f2d3589/img/hasil.png" alt="Halaman Kuesioner" width="400"/></td>
   </tr>
-=======
->>>>>>> ba5e922 (Add README and img folder)
 </table>
 
 ## 🛠️ Teknologi yang Digunakan
@@ -74,38 +60,14 @@ Ikuti langkah-langkah di bawah ini untuk menjalankan proyek secara lokal:
     npm install
     ```
 
-<<<<<<< HEAD
-3.  **Konfigurasi Environment Variable:**
-    Salin file `.env.example` menjadi `.env` dan sesuaikan koneksi database Anda.
-    ```bash
-    cp .env.example .env
-    ```
-    Buka file `.env` dan atur `DATABASE_URL`:
-    ```env
-    DATABASE_URL="mysql://USER:PASSWORD@HOST:PORT/DATABASE"
-    # Contoh:
-    # DATABASE_URL="mysql://root:@localhost:3306/db_stress"
-    ```
 
-4.  **Migrasi Database dengan Prisma:**
-    Jalankan perintah ini untuk membuat tabel di database Anda sesuai dengan skema Prisma.
-    ```bash
-    npx prisma migrate dev
-    ```
-
-5.  **Jalankan Aplikasi:**
 =======
 3.  **Jalankan Aplikasi:**
->>>>>>> ba5e922 (Add README and img folder)
     ```bash
     npm run dev
     ```
 
-<<<<<<< HEAD
-6.  Buka browser Anda dan kunjungi `http://localhost:3000`.
-=======
 4.  Buka browser Anda dan kunjungi `http://localhost:3000`.
->>>>>>> ba5e922 (Add README and img folder)
 
 ## 🤝 Kontribusi
 
