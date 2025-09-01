@@ -15,18 +15,12 @@ const geistMono = Geist_Mono({
   subsets: ["latin"],
 });
 
-export const metadata = {
-  title: "CTSM Cherry | Website Cek Kesetresan Mahasiswa",
-  description: "Aplikasi untuk self-assessment tingkat stres mahasiswa.",
-  icons: {
-    icon: "/logo.png", 
-  },
-};
-
 export default function RootLayout({ children }) {
   return (
     <html lang="id">
       <head>
+        <title>CTSM Cherry | Website Cek Kesetresan Mahasiswa</title>
+        <meta name="description" content="Aplikasi untuk self-assessment tingkat stres mahasiswa." />
         <link rel="icon" href="/logo.png" type="image/png" />
       </head>
       <body
