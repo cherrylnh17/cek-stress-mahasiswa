@@ -38,6 +38,7 @@ Kesehatan mental merupakan isu penting di kalangan mahasiswa. Tingginya tuntutan
 -   **Styling:** Tailwind CSS
 -   **Animation:** Data AOS
 -   **Alert:** Sweetalert 2
+-   **Dataset:** Kaggle
 
 ## 🚀 Instalasi & Konfigurasi Lokal
 
@@ -75,4 +76,4 @@ Jika Anda ingin berkontribusi pada proyek ini, silakan fork repositori dan buat 
 
 ---
 
-Dibuat dengan ❤️ oleh **[Cheryl](https://github.com/cherrylnh17)**.
+Dibuat dengan ❤️ oleh **[Luqman Nur H.](https://github.com/cherrylnh17)**.
